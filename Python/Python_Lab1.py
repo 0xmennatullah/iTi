@@ -1,4 +1,4 @@
-# 1. write 3 variable and check for it's data types using type() function
+#1. write 3 variable and check for it's data types using type() function
 a = 1
 b = 'oi'
 c = '123'

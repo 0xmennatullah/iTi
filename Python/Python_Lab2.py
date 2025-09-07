@@ -1,4 +1,3 @@
-
 #1 
 salary = input("enter ur salary: ")
 salary = int(salary)
